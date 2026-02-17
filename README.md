@@ -1,86 +1,27 @@
-# 👋 Hi, I'm Bikshipta Ranjan Mishra
+# 💫 About Me:
+👋 Hey, I’m Irish<br>A computer science student and web developer who loves building clean, simple, and useful stuff.<br>I work with web tech, enjoy learning new tools, and like turning ideas into real projects.<br>Currently focused on improving my skills, exploring modern development, and growing one repo at a time 🚀
 
-🚀 Computer Science student | 💻 Web Developer | 🌐 Tech Enthusiast  
 
-I build clean, responsive, and user-friendly web apps using modern web tech.  
-I love learning new tools, breaking things, and fixing them better.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikshipta-ranjan-mishra-0b2987269/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bikshipta Ranjan Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikshiptar@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=irishmishra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=irishmishra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irishmishra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧑‍💻 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=irishmishra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🎓 BSc Computer Science student  
-- 🌍 Passionate about Web Development  
-- ⚡ Focused on real-world projects & practical skills  
-- 📈 Constantly learning and improving  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- Responsive Design  
-
-### Backend (Learning / Using)
-- Node.js  
-- Basic APIs  
-
-### Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- WordPress  
-- Linux (Ubuntu)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=irishmishra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=irishmishra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-
-Some things I’ve worked on 👇  
-
-- 🌦️ **Weather App** – Uses public API to fetch real-time weather  
-- 📝 **Blog Website** – Built with WordPress & custom SEO setup  
-- 🎨 **DOM Projects** – JavaScript-based UI interactions  
-- 🌐 **Portfolio Websites** – Responsive & fast  
-
-👉 Check my repositories for code and demos.
-
----
-
-## 📈 GitHub Stats
-
-- Clean commits  
-- Real projects  
-- Learning-focused repos  
-
-(Stats auto-update via GitHub)
-
----
-
-## 🎯 Current Goals
-
-- Improve JavaScript deeply  
-- Learn full-stack development  
-- Build production-level projects  
-- Contribute to open source  
-
----
-
-## 📫 Connect With Me
-
-- 💼 GitHub: `https://github.com/irishmishra`
-- 🌐 Website: `https://bikshipta.com`
-- 📧 Email: `bikshiptar@gmail.com`
-
----
-
-## ⚡ Fun Fact
-
-I don’t just learn code.  
-I **build**, **break**, and **rebuild** it better. 😄
-
----
-
-⭐ If you like my work, don’t forget to star the repos!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
